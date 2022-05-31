@@ -9,7 +9,7 @@ PyCitySchools with Pandas
 
 
 ## Purpose
-A school district asked for a snapshot of several key metrics. The main analysis focused on the performance of math and reading scores disaggregated several ways in preparation for a board meeting.  After the review of the Data, it was determined that the 9th grade class was suspect of cheating and the school board asked for the data to be analyzed again for better comparison.
+A school district asked for a snapshot of several key metrics. The primary analysis was centered on the performance of math and reading scores preparation for a board meeting.  After the review of the Data, it was determined that the 9th grade class was suspect of cheating and the school board asked for the data to be analyzed again for better comparison.
 
 
 ## PythonData Environment
@@ -34,11 +34,11 @@ A school district asked for a snapshot of several key metrics. The main analysis
 
 ### How is the district summary affected?
 Original Analysis:
-![Pic 1](https://github.com/Baylex/School_District_Analysis/blob/main/Resources/1_dist_sum_2_decimals.PNG)
+![Pic 1](https://github.com/YannMusz/School_District_Analysis/blob/main/Resources/1_dist_sum_2_decimals.PNG)
 
 
 Adjusted Analysis:
-![Pic 2](https://github.com/Baylex/School_District_Analysis/blob/main/Resources/2_dist_sum_2_decimals.PNG)
+![Pic 2](https://github.com/YannMusz/School_District_Analysis/blob/main/Resources/2_dist_sum_2_decimals.PNG)
 
 When comparing the two charts, removing less than 500 test scores had very little impact on the almost 40,000 student data set. 
 
@@ -75,29 +75,29 @@ The scores have been replaced with null values and shows up in Python programmin
 Thomas High School falls in the $630-$644/student spending range.  However, the hundredths place was needed to see the nominal changes. 
 
 Original Analysis:
-![Pic 9](https://github.com/Baylex/School_District_Analysis/blob/main/Resources/1_spend_updated.PNG)
+![Pic 9](https://github.com/YannMusz/School_District_Analysis/blob/main/Resources/1_spend_updated.PNG)
 
 Adjusted Analysis:
-![Pic 10](https://github.com/Baylex/School_District_Analysis/blob/main/Resources/2_spending_updated.PNG)
+![Pic 10](https://github.com/YannMusz/School_District_Analysis/blob/main/Resources/2_spending_updated.PNG)
 
 There was very little  impact by changing the 9th grade scores. 
 
 ### Scores by school size
 Original Analysis:
-![Pic 11](https://github.com/Baylex/School_District_Analysis/blob/main/Resources/1_size_updated.PNG)
+![Pic 11](https://github.com/YannMusz/School_District_Analysis/blob/main/Resources/1_size_updated.PNG)
 
 Adjusted Analysis:
-![Pic 12](https://github.com/Baylex/School_District_Analysis/blob/main/Resources/2_size_updated.PNG)
+![Pic 12](https://github.com/YannMusz/School_District_Analysis/blob/main/Resources/2_size_updated.PNG)
 
 There was very little impact by campus size due to changing the 9th grade scores. 
 
 ### Scores by school type
 
 Original Analysis:
-![Pic 13](https://github.com/Baylex/School_District_Analysis/blob/main/Resources/1_type_updated.PNG)
+![Pic 13](https://github.com/YannMusz/School_District_Analysis/blob/main/Resources/1_type_updated.PNG)
 
 Adjusted Analysis:
-![Pic 14](https://github.com/Baylex/School_District_Analysis/blob/main/Resources/2_type_updated.PNG)
+![Pic 14](https://github.com/YannMusz/School_District_Analysis/blob/main/Resources/2_type_updated.PNG)
 
 There was very little impact by school type by changing the 9th grade scores. 
 
